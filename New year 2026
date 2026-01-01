@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy New Year 2026 | Pastor Patricia</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(to bottom, #001f3f, #003366);
+            color: #ffd700;
+            font-family: 'Georgia', serif;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 3.2em;
+            margin-bottom: 10px;
+            text-shadow: 0 0 12px rgba(255, 215, 0, 0.8);
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        h2 {
+            font-size: 2.3em;
+            margin: 10px 0 20px;
+            animation: fadeIn 2.5s ease-in-out;
+        }
+
+        p {
+            font-size: 1.5em;
+            max-width: 850px;
+            line-height: 1.6;
+            margin-bottom: 20px;
+            animation: fadeIn 3s ease-in-out;
+        }
+
+        .verse {
+            font-style: italic;
+            font-size: 1.4em;
+            margin-top: 10px;
+            opacity: 0.9;
+        }
+
+        footer {
+            margin-top: 30px;
+            font-size: 1.2em;
+            opacity: 0.85;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 2.4em; }
+            h2 { font-size: 1.8em; }
+            p, .verse { font-size: 1.2em; }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Happy New Year 2026 🎉</h1>
+    <h2>Dear Pastor Patricia</h2>
+
+    <p>
+        As we step into this new year, may the Lord continually strengthen you,
+        enlarge your wisdom, and reward your faithful labor in His vineyard.
+        Thank you for your leadership, prayers, and unwavering love for God’s people.
+    </p>
+
+    <p class="verse">
+        “The Lord bless you and keep you; the Lord make His face shine upon you
+        and be gracious to you.”<br>
+        — Numbers 6:24–25
+    </p>
+
+    <footer>
+        With love and honor,<br>
+        <strong>Walk of Prayer Ministries</strong>
+    </footer>
+
+</body>
+</html>
